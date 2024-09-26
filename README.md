@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Edelflex**
 
-- 🌱 I’m currently learning **Azure, Flask, Laravel, Ruby**
+- 🌱 I’m currently learning **AWS, PYTORCH, PHP, laravel**
 
-- 👯 I’m looking to collaborate on **Data analisis**
+- 👯 I’m looking to collaborate on **Machine lerning and data analisis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juan-LARRAYA](https://github.com/juan-LARRAYA)
 
-- 💬 Ask me about **Python, C, C++, http, css, assembler**
+- 💬 Ask me about **Python, C, C++, JavaScript, html, css, assembler**
 
 - 📫 How to reach me **juanlarraya00@gmail.com**
 
