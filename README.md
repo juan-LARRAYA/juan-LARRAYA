@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-larraya&label=Profile%20views&color=0e75b6&style=flat" alt="juan-larraya" /> </p>
 
-- 🔭 I’m currently working on **Edelflex**
+- 🔭 I’m currently working on **Ingenia**
 
-- 🌱 I’m currently learning **AWS, PYTORCH, PHP, laravel**
+- 🌱 I’m currently learning **AWS, PYTORCH, ROS, Angular**
 
-- 👯 I’m looking to collaborate on **Machine lerning and data analisis**
+- 👯 I’m looking to collaborate on **Automatization, Firmware for Microcontrollers and deep lerning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juan-LARRAYA](https://github.com/juan-LARRAYA)
 
-- 💬 Ask me about **Python, C, C++, JavaScript, html, css, assembler**
+- 💬 Ask me about **electronics, filmware development, Python, C, C++, JavaScript, html, css and assembler**
 
 - 📫 How to reach me **juanlarraya00@gmail.com**
 
