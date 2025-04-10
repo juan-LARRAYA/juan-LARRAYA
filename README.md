@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate Electronic Engineer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Juan Cruz</h1>
+<h3 align="center">A passionate industrial automation engineer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-larraya&label=Profile%20views&color=0e75b6&style=flat" alt="juan-larraya" /> </p>
 
+I’m all about leveling up. I dive into programming (Python, C, JavaScript), electronics, finance, and anything related to tech innovation. I’ve worked on CubeSat energy systems, STM32 comms with battery ICs, and Raspberry Pi — usually spinning in a VM or container.
+
+I love turning complex systems into structured, elegant solutions. Learning is my default mode, and I’m always building toward something bigger.
+
+
+
 - 🔭 I’m currently working on **Ingenia**
 
-- 🌱 I’m currently learning **AWS, PYTORCH, ROS, Angular**
+- 🌱 I’m currently learning **AZURE, KUBERNETES , NEXT JS**
 
 - 👯 I’m looking to collaborate on **Automatization, Firmware for Microcontrollers and deep lerning**
 
